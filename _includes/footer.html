@@ -55,3 +55,38 @@
 </footer>
 
 <script charset="utf-8" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script charset="utf-8" src="//cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.8/processing.min.js"></script>
+<script type="text/processing" data-processing-target="mycanvas">
+int currentFrame=0;
+void setup(){
+  size(640, 360, P3D);
+}
+
+void draw(){
+  currentFrame=currentFrame+1;
+  background(0);
+
+  translate(width/2, height/2, 0);
+  stroke(255);
+  rotateX(PI/6);
+  rotateZ(PI/180*currentFrame);
+  noFill();
+  smooth();
+  beginShape();
+  vertex( 100, -100, -100);
+  vertex(   0,    0,  100);
+  vertex( 100,  100, -100);
+
+  vertex(-100, 100, -100);
+  vertex(   0,    0,  100);
+
+  vertex( 100, -100, -100);
+  vertex( 100,  100, -100);
+
+  vertex( 100, -100, -100);
+  vertex(-100, 100, -100);
+
+  endShape();
+}
+
+</script>
