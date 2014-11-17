@@ -6,11 +6,16 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-bold: 600;
+$font-weight-extra-bold: 900;
+
 $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      rgb(0, 0, 0);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -57,6 +62,10 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+body.with-full-bg {
+  background-image: url('../images/ceramica.jpg');
+  background-size: cover;
+}
 
 
 /**
@@ -137,6 +146,19 @@ a {
 }
 
 
+.with-full-bg a {
+    color: $background-color;
+    text-decoration: none;
+
+    &:visited {
+        color: darken($brand-color, 15%);
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
 
 /**
  * Blockquotes
