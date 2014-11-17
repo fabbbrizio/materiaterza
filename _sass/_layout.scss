@@ -15,6 +15,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    text-transform: uppercase;
 
     &,
     &:visited {
@@ -114,7 +115,7 @@
 }
 
 .with-full-bg .site-footer {
-  background-color: transparent;  
+  background-color: transparent;
 
 }
 
