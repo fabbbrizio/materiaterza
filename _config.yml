@@ -2,7 +2,7 @@
 title: Materiaterza
 email: materiaterza@gmail.com
 description: collettivo di processi
-baseurl:  "/materiaterza/" # the subpath of your site, e.g. /blog/
+baseurl: # "/materiaterza/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: materiaterza
 github_username:  jekyll
