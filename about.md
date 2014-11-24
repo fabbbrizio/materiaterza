@@ -4,7 +4,7 @@ permalink: /about/
 author: Fabrizio
 date: 2014-11-14 19:13:23
 ---
-#### MATERIATERZA è un ammasso di proteine, lipidi, glucidi, acqua, sali minerali e vitamine in quantità differenti e distribuite in tre involucri, dei quali uno modificato con mercurio, argento, stagno, rame e altri minerali in tracce.
+#### MATERIATERZA è un ammasso di proteine, lipidi, glucidi, acqua, sali minerali e vitamine distribuite in quantità differenti in tre involucri, dei quali uno modificato con mercurio, argento, stagno, rame e altri minerali in tracce.
 
 [vai](http://google.com/)
-![motrtrz](/path/to/mtrtrz1.jpg)
+![mtrtrz](mtrtrz1.jpg)
