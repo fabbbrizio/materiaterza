@@ -8,4 +8,4 @@ date: 2014-11-14 19:13:23
 
 [M](http://materiaterza.com/)
 
-![Alt text]([/images/elbert_mouse.jpg] (http://materiaterza.com/))
+![Alt text][/images/elbert_mouse.jpg] (http://materiaterza.com/)
