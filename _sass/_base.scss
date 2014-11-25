@@ -64,6 +64,13 @@ body {
 
 body.with-full-bg {
   background-image: url('../images/mtrtrz2.jpg');
+
+
+  a:link {
+    background-image: url('http://materiaterza.com/about');
+
+    
+  }
   background-size: cover;
   background-color: white;
   background-repeat: no-repeat;
