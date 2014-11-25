@@ -201,7 +201,8 @@
     font-size: 14px;
 }
 
-.post-list {
+.post-list,
+.projects-list {
     margin-left: 0;
     list-style: none;
 
@@ -277,4 +278,11 @@
             font-size: 18px;
         }
     }
+}
+
+.project {
+  float: left;
+  width: 30%;
+  margin: 0 1.6666666667%;
+
 }
