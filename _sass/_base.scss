@@ -228,7 +228,9 @@ pre {
     }
 }
 
-
+.with-full-bg .wrapper {     
+  height: 100vh;
+}
 
 /**
  * Clearfix
