@@ -3,7 +3,7 @@ layout: page
 title: contact
 permalink: /contact/
 author: Fabrizio
-menu: yes
+menu: no
 menu_order: 4
 ---
 
