@@ -145,12 +145,8 @@ a {
     }
 
     &:hover {
-
-      text-decoration-color: red
-      
         color: $text-color;
-        //text-decoration: underline;
-
+        text-decoration: underline;
     }
 }
 
@@ -164,11 +160,9 @@ a {
     }
 
     &:hover {
-
-      text-decoration-color: red
         color: $text-color;
-      //text-decoration: underline;
-
+      text-decoration: underline;
+      
 
     }
 }
