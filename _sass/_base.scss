@@ -146,8 +146,9 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
-        color: red;
+        //text-decoration: underline;
+        text-decoration-color: red
+        
     }
 }
 
@@ -162,8 +163,9 @@ a {
 
     &:hover {
         color: $text-color;
-      text-decoration: underline;
-      color: red;
+      //text-decoration: underline;
+      text-decoration-color: red
+
 
     }
 }
