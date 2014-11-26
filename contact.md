@@ -7,9 +7,9 @@ menu: yes
 menu_order: 2
 ---
 
-Forte Marghera – Atelier Palmanova – Venezia.
+![Alt text](/images/contact_foto.jpg)
 
-+39 334 37 81 030
+Forte Marghera – Atelier Palmanova – Venice
 
 Inquiries:
 materiaterza@gmail.com
