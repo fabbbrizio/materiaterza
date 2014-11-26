@@ -7,7 +7,6 @@ menu: yes
 menu_order: 1
 ---
 
-![Alt text](/images/about_800x170.png)
 
 
 MATERIATERZA is a cluster of proteins, lipids, carbohydrates, water,
