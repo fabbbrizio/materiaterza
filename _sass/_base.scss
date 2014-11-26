@@ -2,17 +2,19 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'Helvetica', sans-serif;
+$base-font-family: 'Roboto',Helvetica, sans-serif;
 $base-font-size:   14px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$font-weight-thin: 100;
 $font-weight-light: 300;
-$font-weight-regular: 400;
-$font-weight-bold: 600;
-$font-weight-extra-bold: 900;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+$font-weight-ultra-bold: 900;
 
-$spacing-unit:     30px;
+$spacing-unit:     20px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
