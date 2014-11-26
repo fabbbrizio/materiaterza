@@ -3,8 +3,13 @@ layout: page
 title: contact
 permalink: /contact/
 author: Fabrizio
-menu: no
-menu_order: 4
+menu: yes
+menu_order: 1
 ---
 
-Forte Marghera
+Forte Marghera – Atelier Palmanova – Venezia.
+
++39 334 37 81 030
+
+Inquiries:
+materiaterza@gmail.com
