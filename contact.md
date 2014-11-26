@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 author: Fabrizio
 menu: yes
-menu_order: 1
+menu_order: 2
 ---
 
 Forte Marghera – Atelier Palmanova – Venezia.

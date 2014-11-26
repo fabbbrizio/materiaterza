@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 author: Fabrizio
 menu: yes
-menu_order: 0
+menu_order: 1
 ---
 
 MATERIATERZA is a cluster of proteins, lipids, carbohydrates, water,
