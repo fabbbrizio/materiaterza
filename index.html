@@ -1,3 +1,26 @@
 ---
-layout: default
+layout: page
 ---
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="with-full-bg">
+
+  {% include header.html %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      <a href="/about/">
+        {{ content }}
+      </a>
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+</body>
+
+</html>
