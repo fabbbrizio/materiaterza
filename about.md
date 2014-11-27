@@ -7,6 +7,8 @@ menu: yes
 menu_order: 1
 ---
 
+![Alt text](/images/elbert_mouse.jpg)
+
 
 MATERIATERZA is a cluster of proteins, lipids, carbohydrates, water,
 minerals and vitamins, distributed in different amounts in three casings,
