@@ -8,6 +8,7 @@ menu_order: 1
 ---
 
 ![Alt text](/images/elbert_mouse.jpg)
+![Alt text](/images/elbert_mouse.jpg)
 
 
 MATERIATERZA is a cluster of proteins, lipids, carbohydrates, water,
