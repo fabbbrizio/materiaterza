@@ -67,6 +67,10 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+button {
+  cursor: crosshair;
+}
+
 body.with-full-bg {
   background-image: url('../images/mtrtrz1_low.jpg');
   background-size: cover;
