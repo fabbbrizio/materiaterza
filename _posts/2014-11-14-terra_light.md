@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terra / Macrotermes"
-featured_image: /images/projects/terra_term3.jpg
+#featured_image: /images/projects/terra_term3.jpg
 date:   2014-11-14 19:13:23
 categories: projects
 ---
