@@ -16,7 +16,7 @@ Produzione: Reggiani Ceramica
 
 <br>
 <br>
-![Alt text](/images/projects/terra_term1.jpg)
-<br>
-<br>
 ![Alt text](/images/projects/terra_term2.jpg)
+<br>
+<br>
+![Alt text](/images/projects/terra_term1.jpg)

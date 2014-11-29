@@ -51,7 +51,7 @@
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
+    //    &:not(:first-child) {
             margin-left: 20px;
         }
     }
@@ -282,7 +282,7 @@
 
 .project {
   float: left;
-  width: 30%;
+  width: 40%;
   margin: 0 1.6666666667%;
 
 }
