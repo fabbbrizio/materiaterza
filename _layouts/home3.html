@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+   <body>
+    <body class="with-full-bg">
+
+      {% include header.html %}
+
+      <div class="page-content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </div>
+
+      {% include footer.html %}
+
+      <div class="page-content">
+        <a href="/about/">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </a>
+
+      </div>
+
+
+  </body>
+
+
+</html>
