@@ -208,7 +208,7 @@
     margin-left: 0;
     list-style: none;
 
-    > li {
+     li {
         margin-bottom: $spacing-unit;
     }
 }
@@ -219,8 +219,8 @@
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+  //  display: block;
+    font-size: 54px;
 }
 
 
@@ -284,7 +284,7 @@
 
 .project {
   float: left;
-  width: 40%;
+  width: 100%;
   margin: 0 1.6666666667%;
 
 }

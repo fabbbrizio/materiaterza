@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Macrotermes"
-#featured_image: /images/projects/termit_thumb_3.jpg
+#featured_image: /images/projects/termit_banner.jpg
 #date:   2014-11-14 19:13:23
 categories: projects
 ---
@@ -17,4 +17,5 @@ Progetto: materiaterza
 ![Alt text](http://beheco.oxfordjournals.org/content/11/5/F1.medium.gif)
 <br>
 <br>
-![Alt text](/images/projects/terra_term1.jpg)
+<!-- ![Alt text](/images/projects/terra_term1.jpg)
+-->
