@@ -7,7 +7,7 @@ $base-font-family: 'Titillium Web', sans-serif;
 //$base-font-family: 'Lekton', sans-serif;
 //$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
-$base-font-size:   14px;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -134,7 +134,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 500;
 }
 
 
@@ -145,8 +145,13 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: black;
   //  background-color: #f5f5f5;
     //text-transform: uppercase;
+    //text-decoration: underline;
+
 
 
     &:visited {
@@ -156,8 +161,10 @@ a {
 
     &:hover {
 
-        color: $text-color;
-        background-color: #e3e3e3;
+        color: black;
+        //background-color: #e3e3e3;
+        border-bottom-color: lime;
+        //background: black;
         //text-decoration: line-through;
     }
 }

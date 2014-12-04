@@ -3,7 +3,7 @@
   <div class="wrapper">
 
 
-    <a href="{{ site.baseurl }}/"><img class="site-logo" src="/images/logo_star.png" alt="" /></a>
+    <a href="{{ site.baseurl }}/"><img class="site-logo" src="/images/logo6.png" alt="" /></a>
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
@@ -26,7 +26,9 @@
 
               {% if page.url == item.url %}
                 <!-- Mark the current page -->
-                <div class="current">{{ item.title }}</div>
+          <!--    <div class="current">{{ item.title }}</div>
+
+          -->
               {% else %}
                 <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
               {% endif %}

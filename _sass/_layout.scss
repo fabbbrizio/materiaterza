@@ -6,11 +6,12 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
 }
 
 .site-logo {
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   display: inline-block;
   padding: 18px 0;
 }
@@ -39,8 +40,10 @@
 }
 
 .site-nav {
+
     float: right;
-    line-height: 56px;
+    position: relative;
+    line-height: 86px;
 
     .menu-icon {
         display: none;
@@ -94,6 +97,7 @@
             display: block;
             padding-bottom: 5px;
 
+
         }
 
         .page-link {
@@ -117,8 +121,8 @@
  */
 .site-footer {
     padding: $spacing-unit 0;
-    position: fixed;
-    background-color: $background-color;
+    position: relative;
+    background-color: white;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -130,7 +134,7 @@
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -141,7 +145,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: 16px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -247,7 +251,7 @@
 }
 
 .post-header p {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .post-header small {
