@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il primo post di materia prima"
+title:  "Il primo post"
 date:   2014-11-14 19:13:23
 categories: news
 ---
