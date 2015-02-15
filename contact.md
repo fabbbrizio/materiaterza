@@ -7,7 +7,7 @@ menu: yes
 menu_order: 2
 ---
 
-<a href= "http://www.eventiartevenezia.com/">
+<a href= "http://www.eventiartevenezia.com/" target="_blank">
 ![Alt text](/images/contact_foto_low.jpg "Terra_1")
 </a>
 <br>
