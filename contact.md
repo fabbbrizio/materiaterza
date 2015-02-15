@@ -11,5 +11,5 @@ menu_order: 2
 <br>
 Forte Marghera – Atelier Palmanova – Venice
 <br>
-<h1><big> — </h1></big>
+
 <a href="http://materiaterza.com">back</a>
