@@ -38,4 +38,4 @@ Production: Reggiani Ceramica
 Code: Ruf*
 <br>
 <br>
-<a href="http://materiaterza.com/projects/2014/11/14/porcelain.html">next project</a>
+<a href="http://materiaterza.com/projects/porcelain.html">next project</a>
