@@ -13,13 +13,14 @@ categories: projects
 
 <br>
 <br>
-![Alt text](/images/projects/porcelain_3.jpg)
+![Alt text](/images/projects/porcelain_1.jpg)
 <br>
 <br>
 ![Alt text](/images/projects/porcelain_2.jpg)
 <br>
 <br>
-![Alt text](/images/projects/porcelain_1.jpg)
+![Alt text](/images/projects/porcelain_3.jpg)
 <br>
 <br>
+
 <a href="http://materiaterza.com/projects/2014/11/14/rpco.html">previous project</a>
