@@ -23,4 +23,4 @@ categories: projects
 <br>
 <br>
 
-<a href="http://materiaterza.com/projects/2014/11/14/rpco.html">previous project</a>
+<a href="http://materiaterza.com/projects/2014/11/14/light.html">next project</a>
