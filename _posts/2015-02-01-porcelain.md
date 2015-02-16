@@ -12,7 +12,6 @@ categories: projects
 <h1><big>Porcelain</big></h1>
 
 <br>
-<br>
 ![Alt text](/images/projects/porcelain1.jpg)
 <br>
 <br>
