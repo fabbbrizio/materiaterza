@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 author: Fabrizio
 menu: yes
-menu_order: 2
+menu_order: 3
 ---
 
 <a href= "http://www.eventiartevenezia.com/" target="blank">
