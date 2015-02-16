@@ -22,5 +22,8 @@ categories: projects
 ![Alt text](/images/projects/porcelain3.jpg)
 <br>
 <br>
-
+Project: MATERIATERZA  
+Production: Reggiani Ceramica  
+<br>
+<br>
 <a href="http://materiaterza.com/projects/2014/11/14/light.html">next project</a>
