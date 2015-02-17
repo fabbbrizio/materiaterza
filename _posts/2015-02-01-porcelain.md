@@ -12,13 +12,28 @@ categories: projects
 <h1><big>Porcelain</big></h1>
 
 <br>
-![Alt text](/images/projects/porcelain1.jpg)
+![Alt text](/images/projects/porcelain6.jpg)
+<br>
+<br>
+![Alt text](/images/projects/porcelain8.jpg)
+<br>
+<br>
+![Alt text](/images/projects/porcelain5.jpg)
+<br>
+<br>
+![Alt text](/images/projects/porcelain4.jpg)
+<br>
+<br>
+![Alt text](/images/projects/porcelain7.jpg)
+<br>
+<br>
+![Alt text](/images/projects/porcelain3.jpg)
 <br>
 <br>
 ![Alt text](/images/projects/porcelain2.jpg)
 <br>
 <br>
-![Alt text](/images/projects/porcelain3.jpg)
+![Alt text](/images/projects/porcelain1.jpg)
 <br>
 <br>
 Project: MATERIATERZA  
