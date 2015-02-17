@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 author: Fabrizio
 menu: yes
-menu_order: 1
+menu_order: 2
 ---
 
 Venice, January 2014; from the encounter between Davide Tuberga – designer – and Andrea Reggiani – artisan ceramist – develops a new and innovative way to explore the production processes, trying so to fuse the traditional and the modern digital production approaches.
