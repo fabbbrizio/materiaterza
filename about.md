@@ -8,13 +8,13 @@ menu_order: 2
 ---
 
 
-Dall'incontro fra un designer, Davide Tuberga, e un artigiano della ceramica, Andrea Reggiani, nasce la curiosità di esplorare un innovativo processo di produzione della materia, che unisca aspetti della progettazione digitale con materiali tradizionali.
-Da questa volontà viene realizzata una stampante 3D per la ceramica con cui vengono costruite nuove forme. La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un programmatore, Ruf *, un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il neo nato progetto attraverso le specificità di ciascuno, dato così vita al collettivo MATERIATERZA.
+Venezia, gennaio 2014; dall'incontro fra un designer, Davide Tuberga, e un artigiano della ceramica, Andrea Reggiani, nasce la curiosità di esplorare un innovativo processo di produzione della materia, che unisca aspetti della progettazione digitale con materiali tradizionali.
+Da questa volontà viene realizzata una stampante 3D per la ceramica con cui vengono costruite nuove forme. La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un programmatore, Ruf*, un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il neo nato progetto attraverso le specificità di ciascuno, dato così vita al collettivo MATERIATERZA.
 Da questa prima esperienza, ancora in corso d'opera, MATERIATERZA si prefigge l'obiettivo di esplorare nuovi processi di produzione nel campo dell'artigianato italiano.
 
 <i>Venice, January 2014; from the encounter between Davide Tuberga – designer – and Andrea Reggiani – artisan ceramist – develops a new and innovative way to explore the production processes, trying so to fuse the traditional and the modern digital production approaches.
 The duo creates a new extruder for ceramic and a  3d printer is redesigned: the experimentation starts.
-The original project will soon develop in a larger group of specialists joining the team: a coder, Ruf; an interaction designer, Fabrizio Goglia; a graphic designer, Chiara Costantini. From this point onward the new members will enrich the project with their skills, personal approaches and professional background.</i>
+The original project will soon develop in a larger group of specialists joining the team: a coder, Ruf*; an interaction designer, Fabrizio Goglia; a graphic designer, Chiara Costantini. From this point onward the new members will enrich the project with their skills, personal approaches and professional background.</i>
 
 <br>
 ![Alt text](/images/about2.jpg)
