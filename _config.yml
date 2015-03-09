@@ -1,6 +1,6 @@
 # Site settings
 title: Materiaterza
-email: materiaterza@gmail.com
+# email: materiaterza@gmail.com
 description: Process design collective based in Venice
 baseurl: "http://materiaterza.com" # the subpath of your site, e.g. /blog/
 url: "http://materiaterza.com" # the base hostname & protocol for your site
