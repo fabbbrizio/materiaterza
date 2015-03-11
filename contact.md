@@ -9,7 +9,6 @@ menu_order: 3
 
 <a href= "http://www.eventiartevenezia.com/" target="blank">
 ![Alt text](/images/contact_foto_low.jpg "Eventi Arte Venezia")
-![Alt text](/images/v>>f.gif)
 </a>
 <br>
 <br>
