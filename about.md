@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 author: Fabrizio
-menu: yes
+menu: no
 menu_order: 2
 ---
 
