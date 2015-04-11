@@ -10,7 +10,7 @@ menu_order: 2
 
 Venezia, gennaio 2014; dall'incontro fra un designer, Davide Tuberga, e un artigiano della ceramica, Andrea Reggiani, nasce la curiosità di esplorare un innovativo processo di produzione, che unisca aspetti della progettazione digitale con materiali tradizionali. Da questa volontà viene realizzata una stampante 3D per la ceramica con cui vengono costruite nuove forme.
 
-La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il progetto attraverso le specificità di ciascuno, dato così vita al collettivo MATERIATERZA.
+La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il progetto attraverso le specificità di ciascuno, dando così vita al collettivo MATERIATERZA.
 
 Da questa prima esperienza, MATERIATERZA si prefigge l'obiettivo di fare ricerca, esplorarando i processi di produzione in differenti campi dell'artigianato, italiano e non.
 
