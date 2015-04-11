@@ -15,7 +15,7 @@ menu_order: 3
 Forte Marghera – Atelier Palmanova – Venice
 <br>
 
-<a href="mailto:materiaterza@gmail.com">Contattaci</a>
+<a href="mailto:materiaterza@gmail.com">Contattaci / Contact us</a>
 
 <!--
 <a href="http://materiaterza.com">back</a>
