@@ -13,7 +13,8 @@ Venezia, gennaio 2014; dall'incontro fra un designer, Davide Tuberga, e un artig
 La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il progetto attraverso le specificità di ciascuno, dato così vita al collettivo MATERIATERZA.
 
 Da questa prima esperienza, MATERIATERZA si prefigge l'obiettivo di fare ricerca, esplorarando i processi di produzione in differenti campi dell'artigianato, italiano e non.
-Il collettivo è quindi aperto a potenziali collaborazioni con chiunque abbia opinioni e interessi al riguardo.
+
+Il collettivo è quindi aperto a potenziali collaborazioni e a semplici scambi di idee.
 
 <br>
 <br>
