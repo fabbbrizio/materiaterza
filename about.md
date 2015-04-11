@@ -3,16 +3,17 @@ layout: page
 title: about
 permalink: /about/
 author: Fabrizio
-menu: no
+menu: yes
 menu_order: 2
 ---
 
 
 Venezia, gennaio 2014; dall'incontro fra un designer, Davide Tuberga, e un artigiano della ceramica, Andrea Reggiani, nasce la curiosità di esplorare un innovativo processo di produzione, che unisca aspetti della progettazione digitale con materiali tradizionali. Da questa volontà viene realizzata una stampante 3D per la ceramica con cui vengono costruite nuove forme.
 
-La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un programmatore, Ruf*, un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il neo nato progetto attraverso le specificità di ciascuno, dato così vita al collettivo MATERIATERZA.
+La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono un interaction designer, Fabrizio Goglia, e una graphic designer, Chiara Costantini, con l'intento di collaborare e arricchire il progetto attraverso le specificità di ciascuno, dato così vita al collettivo MATERIATERZA.
 
-Da questa prima esperienza, ancora in corso d'opera, MATERIATERZA si prefigge l'obiettivo di esplorare nuovi processi di produzione nel campo dell'artigianato italiano.
+Da questa prima esperienza, MATERIATERZA si prefigge l'obiettivo di fare ricerca, esplorarando i processi di produzione in differenti campi dell'artigianato, italiano e non.
+Il collettivo è quindi aperto a potenziali collaborazioni con chiunque abbia opinioni e interessi al riguardo.
 
 <br>
 <br>
@@ -21,8 +22,10 @@ The duo creates a new extruder for ceramic and a  3d printer is redesigned: the 
 
 <i>The original project will soon develop in a larger group of specialists joining the team: a coder, Ruf*; an interaction designer, Fabrizio Goglia; a graphic designer, Chiara Costantini.</i>
 
-<i>From this point onward the new members will enrich the project with their skills, personal approaches and professional background.</i>
+<i>From this point onward the new members will enrich the project with their skills, personal approaches and professional background. </i>
 
+
+<i> The collective is opened to collaborations and ideas exchange </i>
 <br>
 ![Alt text](/images/about2.jpg)
 <br>
