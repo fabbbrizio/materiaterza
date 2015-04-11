@@ -25,7 +25,9 @@ The duo creates a new extruder for ceramic and a  3d printer is redesigned: the 
 <i>From this point onward the new members will enrich the project with their skills, personal approaches and professional background. </i>
 
 
-<i> The collective is opened to collaborations and ideas exchange </i>
+<i> The collective is open to collaborations and exchange of ideas. </i>
+
+
 <br>
 ![Alt text](/images/about2.jpg)
 <br>
