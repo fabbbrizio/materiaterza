@@ -177,16 +177,16 @@ color: blue($color);;
 
 
 .with-full-bg a {
-    color: $background-color;
+    color: blue;
     text-decoration: none;
 
     &:visited {
         //color: darken($brand-color, 15%);
-        color: blue($color);
+        color: blue;
     }
 
     &:hover {
-        color: blue($color);
+        color: blue;
       text-decoration: none;
 
 
