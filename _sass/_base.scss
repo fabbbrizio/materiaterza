@@ -150,11 +150,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    text-color: red;
+    text-color: white;
     text-decoration: none;
     border-bottom-style: solid;
     border-bottom-width: 2px;
-    border-bottom-color: red;
+    border-bottom-color: white;
   background-color: none;
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -163,14 +163,14 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: green;
+color: blue;
     }
 
     &:hover {
 
-        color: white;
+        color: blue;
         //background-color: #e3e3e3;
-        border-bottom-color: white;
+        border-bottom-color: blue;
         //background: black;
         //text-decoration: line-through;
     }
@@ -183,11 +183,11 @@ color: green;
 
     &:visited {
         //color: darken($brand-color, 15%);
-        color: green;
+        color: blue;
     }
 
     &:hover {
-        color: red;
+        color: white;
       text-decoration: none;
 
 
