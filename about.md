@@ -1,10 +1,10 @@
 ---
-layout: page
-title: about
-permalink: /about/
-author: Fabrizio
-menu: no
-menu_order: 2
+#layout: page
+#title: about
+#permalink: /about/
+#author: Fabrizio
+#menu: no
+#menu_order: 2
 ---
 
 
@@ -15,7 +15,7 @@ La sperimentazione ha già fatto passi da giganti quando, al duo si aggiungono u
 Da questa prima esperienza, MATERIATERZA si prefigge l'obiettivo di fare ricerca, esplorarando i processi di produzione in differenti campi dell'artigianato, italiano e non.
 
 Il collettivo è quindi aperto a potenziali collaborazioni e a semplici scambi di idee.
--->
+
 <br>
 <br>
 <!-- <i>Venice, January 2014; from the encounter between Davide Tuberga – designer – and Andrea Reggiani – artisan ceramist – develops a new and innovative way to explore the production processes, trying so to fuse the traditional and the modern digital production approaches.
