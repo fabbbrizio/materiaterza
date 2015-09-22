@@ -150,11 +150,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    text-color: blue;
+    text-color: blue($color);;
     text-decoration: none;
     border-bottom-style: solid;
     border-bottom-width: 2px;
-    border-bottom-color: blue;
+    border-bottom-color: blue($color);;
   background-color: none;
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -168,9 +168,9 @@ color: blue;
 
     &:hover {
 
-        color: blue;
+        color: blue($color);;
         //background-color: #e3e3e3;
-        border-bottom-color: blue;
+        border-bottom-color: blue($color);;
         //background: black;
         //text-decoration: line-through;
     }
@@ -178,16 +178,16 @@ color: blue;
 
 
 .with-full-bg a {
-    color: blue;
+    color: blue($color);;
     text-decoration: none;
 
     &:visited {
         //color: darken($brand-color, 15%);
-        color: blue;
+        color: blue($color);;
     }
 
     &:hover {
-        color: blue;
+        color: blue($color);;
       text-decoration: none;
 
 
