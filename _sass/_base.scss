@@ -162,7 +162,7 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: white;
+color: blue($color);;
     }
 
     &:hover {
