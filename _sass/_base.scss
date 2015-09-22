@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    text-color: white;
+    text-color: black;
     text-decoration: none;
     border-bottom-style: solid;
     border-bottom-width: 2px;
@@ -163,14 +163,14 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: blue;
+color: black;
     }
 
     &:hover {
 
         color: blue;
         //background-color: #e3e3e3;
-        border-bottom-color: white;
+        border-bottom-color: black;
         //background: black;
         //text-decoration: line-through;
     }
@@ -178,16 +178,16 @@ color: blue;
 
 
 .with-full-bg a {
-    color: blue;
+    color: black;
     text-decoration: none;
 
     &:visited {
         //color: darken($brand-color, 15%);
-        color: blue;
+        color: black;
     }
 
     &:hover {
-        color: white;
+        color: blue;
       text-decoration: none;
 
 
