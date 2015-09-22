@@ -81,7 +81,7 @@ body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
   //background-image: url('/images/stellone.gif');
   background-size: cover;
-  background-color: black;
+  background-color: black($color);
   background-repeat: no-repeat;
 }
 
@@ -150,11 +150,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    text-color: blue($color);;
+    text-color: blue($color);
     text-decoration: none;
     border-bottom-style: solid;
     border-bottom-width: 2px;
-    border-bottom-color: blue($color);;
+    border-bottom-color: blue($color);
   background-color: none;
     //text-transform: uppercase;
     //text-decoration: underline;
@@ -168,9 +168,9 @@ color: blue;
 
     &:hover {
 
-        color: blue($color);;
+        color: white($color);
         //background-color: #e3e3e3;
-        border-bottom-color: blue($color);;
+        border-bottom-color: white($color);
         //background: black;
         //text-decoration: line-through;
     }
@@ -178,16 +178,16 @@ color: blue;
 
 
 .with-full-bg a {
-    color: blue($color);;
+    color: blue($color);
     text-decoration: none;
 
     &:visited {
         //color: darken($brand-color, 15%);
-        color: blue($color);;
+        color: blue($color);
     }
 
     &:hover {
-        color: blue($color);;
+        color: blue($color);
       text-decoration: none;
 
 
