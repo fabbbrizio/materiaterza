@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 author: Fabrizio
-menu: yes
+menu: no
 menu_order: 2
 ---
 
@@ -18,7 +18,7 @@ Il collettivo è quindi aperto a potenziali collaborazioni e a semplici scambi d
 -->
 <br>
 <br>
-<!--<i>Venice, January 2014; from the encounter between Davide Tuberga – designer – and Andrea Reggiani – artisan ceramist – develops a new and innovative way to explore the production processes, trying so to fuse the traditional and the modern digital production approaches.
+<!-- <i>Venice, January 2014; from the encounter between Davide Tuberga – designer – and Andrea Reggiani – artisan ceramist – develops a new and innovative way to explore the production processes, trying so to fuse the traditional and the modern digital production approaches.
 The duo creates a new extruder for ceramic and a  3d printer is redesigned: the experimentation starts.</i>
 
 <i>The original project will soon develop in a larger group of specialists joining the team: an interaction designer, Fabrizio Goglia; a graphic designer, Chiara Costantini.</i>
