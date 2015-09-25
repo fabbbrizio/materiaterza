@@ -124,11 +124,21 @@
 /**
  * Site footer
  */
+ /**
 .site-footer {
     padding: $spacing-unit 0;
     position: relative;
     background-color: white;
     bottom: 0;
+    left: 0;
+    width: 100%;
+}
+*/
+.site-footer {
+    padding: $spacing-unit 0;
+    position: absolute;
+    background-color: grey-color-light;
+    bottom: 10;
     left: 0;
     width: 100%;
 }
