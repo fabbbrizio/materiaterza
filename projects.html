@@ -12,7 +12,7 @@ menu_order: 1
     {% for cat in post.categories %}
     {% if cat == 'projects' %}
     <li class="project">
-      <img src="{{ post.featured_image }}" alt="" />
+      <!--<img src="{{ post.featured_image }}" alt="" /> -->
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
