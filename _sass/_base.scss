@@ -26,9 +26,6 @@ $text-color:       #111;
 $background-color: #ffffff;
 $brand-color:      rgb(0, 0, 0);
 
-$selection-color: red;
-$selection-background: yellow;
-
 }
 
 $grey-color:       #828282;
@@ -76,9 +73,6 @@ body {
     //color: $text-color;
     color: black;
     background-color: white;
-
-selection-background: yellow;
-
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
