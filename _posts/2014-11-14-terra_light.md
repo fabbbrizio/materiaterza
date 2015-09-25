@@ -1,7 +1,7 @@
 ---
 #layout: post
 #title:  "Macrotermes"
-#featured_image: /images/projects/termit_banner.jpg
+
 #date:   2014-11-14 19:13:23
 #categories: projects
 ---
