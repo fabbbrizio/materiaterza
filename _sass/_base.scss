@@ -70,7 +70,7 @@ body {
     font-weight: 400;
     //color: $text-color;
     color: black;
-    background-color: $brand-color;
+    background-color: white;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -83,7 +83,7 @@ body.with-full-bg {
   //background-image: url('/images/stellone.gif');
   background-image: url('/images/sfondo.colori.gif');
   background-size: cover;
-  background-color: white;
+  background-color: gainsboro;
   background-repeat: repeat;
 }
 
