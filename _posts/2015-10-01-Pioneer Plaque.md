@@ -8,13 +8,9 @@ categories: projects
 
 
 
-![Alt text](/images/projects/test.jpg)
-<br>
-<br>
-
 Project: Me
 Credits: Other
 
 <br>
 <br>
-<a href="http://materiaterza.com/projects/2014/11/14/rpco.html">previous project</a>
+<a href="http://materiaterza.com/projects/2015/10/01/Pioneer%20Plaque.html">Next project</a>
