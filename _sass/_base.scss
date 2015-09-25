@@ -70,7 +70,7 @@ body {
     font-weight: 400;
     //color: $text-color;
     color: black;
-    background-color: white;
+    background-color: $brand-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -157,7 +157,7 @@ a {
     border-bottom-style: solid;
     border-bottom-width: 2px;
     border-bottom-color: black;
-  background-color: none;
+  background-color: white;
     //text-transform: uppercase;
     //text-decoration: underline;
 
