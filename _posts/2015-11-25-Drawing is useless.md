@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Drawing is Useless"
-date:   2014-11-14 19:13:23
+date:   2014-09-14 17:00:00
 categories: news
 ---
 
