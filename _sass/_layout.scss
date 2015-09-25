@@ -25,7 +25,9 @@
     margin-bottom: 0;
     float: left;
     text-transform: none;
-    display: inline;
+    display: inline-block;
+    padding: 18px 0;
+
 
     &,
     &:visited {
