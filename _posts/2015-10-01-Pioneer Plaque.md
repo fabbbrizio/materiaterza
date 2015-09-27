@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pioneer Plaque"
-featured_image: /images/projects/plaque1.jpg
+featured_image: /images/projects/plaque1.png
 date:   1970-09-14 19:13:23
 categories: projects
 ---
