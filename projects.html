@@ -8,20 +8,17 @@ menu_order: 1
 ---
 
 <ul class="projects-list">
-<!--  {% for post in site.posts %}
+  {% for post in site.posts %}
     {% for cat in post.categories %}
     {% if cat == 'projects' %}
     <li class="project">
-    -->
       <!--<img src="{{ post.featured_image }}" alt="" /> -->
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
     {{ post.excerpt }}
     </li>
-    <!--
     {% endif %}
     {% endfor %}
   {% endfor %}
--->
 </ul>
