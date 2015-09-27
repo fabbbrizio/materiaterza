@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pioneer Plaque"
-featured_image: <a href="http://materiaterza.com/projects/">/images/projects/plaque.jpg</a>
+featured_image: /images/projects/plaque.jpg
 date:   1970-09-14 19:13:23
 categories: projects
 ---
