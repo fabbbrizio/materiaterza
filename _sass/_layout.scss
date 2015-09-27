@@ -97,11 +97,11 @@
 
         .trigger {
             clear: both;
-            display: none;
+            display: inline;
         }
 
         &:hover .trigger {
-            display: block;
+            display: inline;
             padding-bottom: 5px;
 
 
