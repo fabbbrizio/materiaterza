@@ -10,5 +10,5 @@ categories: projects
 
 <br>
 <br>
-<a href="http://materiaterza.com/projects/2015/10/01/Pioneer%20Plaque.html">Next project</a>
-<right><a href="http://materiaterza.com/projects/2015/10/01/Pioneer%20Plaque.html">Previous project</a>
+<p class="alignleft"><a href="http://materiaterza.com/projects/2015/10/01/Pioneer%20Plaque.html">Next project</a></p>
+<p class="alignright"><a href="http://materiaterza.com/projects/2015/10/01/Pioneer%20Plaque.html">Previous project</a></p>
