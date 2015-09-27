@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
     text-color: black;
     text-decoration: none;
-    border-bottom-style: solid;
+    border-bottom-style: none;
     border-bottom-width: 2px;
     border-bottom-color: black;
   background-color: none;
@@ -173,6 +173,7 @@ color: black;
 
         color: blue;
         //background-color: #e3e3e3;
+        border-bottom-style: solid;
         border-bottom-color: blue;
         //background: black;
         //text-decoration: line-through;
