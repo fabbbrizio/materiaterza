@@ -18,9 +18,26 @@
 
       <div class="trigger">
 
-    
-                <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+        {% assign items = site.pages | sort: 'menu_order' %}
+          {% for item in items %}
 
+          {% if item.menu %}
+            <!-- Excludes paginated pages (e.g. blog) -->
+            {% unless item.url contains '/page' %}
+
+              {% if page.url == item.url %}
+                <!-- Mark the current page -->
+          <!--    <div class="current">{{ item.title }}</div> -->
+
+              {% else %}
+                <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+              {% endif %}
+
+            {% endunless %}
+
+          {% endif %}
+
+        {% endfor %}
 
 
 
