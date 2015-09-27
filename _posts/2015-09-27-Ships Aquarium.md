@@ -6,11 +6,11 @@ date:   2014-11-14 19:13:23
 categories: projects
 ---
 
-Ships Aquarium is a real time data visualization with Processing, a three-day workshop with Till Nagel.
+Real time data visualization with Processing.
 
-<iframe src="https://player.vimeo.com/video/59518870" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/59518870" width="800px" height"500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-An interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes realy simple discover current tracks of big ships and their characteristics like name, weight, dimension.
+Ships Aquarium is the product of a three-day workshop with Till Nagel, an interactive visualization that allows to check real-time information about ships in the lagoon of Venice. It makes realy simple discover current tracks of big ships and their characteristics like name, weight, dimension.
 
 *My tasks: Research on the effect of the big ships in Venice lagoon environment condition. Design of the interactive map with Tiemill platform and Processing*.
 
