@@ -65,6 +65,17 @@
         }
     }
 
+    .nav:after {
+    background: rgba(226, 0, 0, 0.13);
+    content: '';
+    display: block;
+    height: 1px;
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    }
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
