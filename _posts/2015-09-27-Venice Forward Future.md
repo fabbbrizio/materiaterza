@@ -19,8 +19,6 @@ The production site became a lab where analogic and digital techniques are mixed
 
 *My task: Design of the identity, design of the printed artefacts for the exposition (with Chiara Costantini and Luca Coppola), mockup of the project's website (developed by Federico Bovara)*
 
-<iframe src="https://player.vimeo.com/video/125023947?color=10898f&title=0&byline=0&portrait=0" width="800" height="553" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 Web Articles: The perfect job, Nykyinen, Domusweb, Artribune.
 
 Credits: BTM, Mareriaterza, Salviati.
