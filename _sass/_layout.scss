@@ -51,7 +51,7 @@
 
     float: right;
     position: relative;
-    line-height: 60px;
+    line-height: none;
 
     .menu-icon {
         display: none;
@@ -104,7 +104,7 @@
 
         &:hover .trigger {
             display: inline;
-          //  padding-bottom: 5px;
+            padding-bottom: 5px;
 
 
         }
