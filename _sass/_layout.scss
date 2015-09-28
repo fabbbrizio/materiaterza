@@ -130,11 +130,11 @@
   -moz-border-radius: 0;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: #E74C3C;
-  background: white;
+  color: white;
+  background: #2C3E50;
   font-size: 16px;
   padding: 10px 20px 10px 20px;
-  border: solid #E74C3C 3px;
+  border: solid white 3px;
   text-decoration: none;
   -webkit-transition: background .1s linear .1s;
     -moz-transition: background .1s linear .1s;
@@ -148,8 +148,8 @@
 }
 
 .button:hover {
-  color: white;
-  background: #E74C3C;
+  color: #2C3E50;
+  background: white;
   text-decoration: none;
 }
 
