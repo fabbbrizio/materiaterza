@@ -6,7 +6,7 @@ date:   1970-09-14 19:13:23
 categories: projects
 ---
 
-######An image displayed on a plaque was intended to be seen by those whom the space probe Pioneer 10, might encounter in space: information about us for other inhabitants of the universe.
+An image displayed on a plaque was intended to be seen by those whom the space probe Pioneer 10, might encounter in space: information about us for other inhabitants of the universe.
 
 The image displayed on a plaque fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (more precisely to Jupiter) in 1972.
 
