@@ -9,7 +9,7 @@
     // Positioning context for the mobile navigation icon
     position: relative;
     //border-bottom: 0.1em solid rgba(0, 0, 0, 0.13);
-    //border-bottom: 0.1em solid #2C3E50;
+    border-bottom: 0.1em solid #2C3E50;
 }
 
 .site-logo {
@@ -51,7 +51,7 @@
 
     float: right;
     position: relative;
-    line-height: 67px;
+    line-height: 50px;
 
     .menu-icon {
         display: none;
@@ -104,7 +104,7 @@
 
         &:hover .trigger {
             display: inline;
-            padding-bottom: 5px;
+            padding-bottom: none;
 
 
         }
