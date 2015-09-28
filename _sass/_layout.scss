@@ -131,7 +131,7 @@
   border-radius: 0px;
   font-family: Lekton, sans-serif;
   color: #ECF0F1;
-  background: #2C3E50;
+  background: #fff;
   border: solid #2C3E50 3px;
   font-size: 14px;
   padding: 10px 20px 10px 20px;
@@ -150,8 +150,8 @@
 }
 
 .button:hover {
-  color: #2C3E50;
-  background: white;
+  color: white;
+  background: #2C3E50;
   text-decoration: none;
   border: solid #2C3E50 3px;
 }
