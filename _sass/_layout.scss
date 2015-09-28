@@ -126,21 +126,21 @@
 }
 
 .button {
-  -webkit-border-radius: 5;
-  -moz-border-radius: 5;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: blue;
+  color: black;
   background: white;
   font-size: 16px;
   padding: 10px 20px 10px 20px;
-  border: solid blue 3px;
+  border: solid black 3px;
   text-decoration: none;
 }
 
 .button:hover {
   color: white;
-  background: blue;
+  background: black;
   text-decoration: none;
 }
 
