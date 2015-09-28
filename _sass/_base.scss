@@ -23,7 +23,7 @@ $font-weight-ultra-bold: 900;
 $spacing-unit:     20px;
 
 $text-color:       #111;
-$background-color: #ECF0F1;
+$background-color: #ffffff;
 $brand-color:      rgb(0, 0, 0);
 
 
@@ -71,7 +71,7 @@ body {
     font-weight: 400;
     //color: $text-color;
     color: black;
-    background-color: #ECF0F1;
+    background-color: white;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -171,7 +171,7 @@ color: #2C3E50;
 
     &:hover {
 
-        color: #ECF0F1;
+        color: #566273;
         //background-color: #e3e3e3;
         border-bottom-style: none;
         border-bottom-color: none;
