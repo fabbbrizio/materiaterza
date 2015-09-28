@@ -4,7 +4,7 @@
 .site-header {
     min-height: 1px;
       //background-color: #f0f0f0;
-      background-color: #ECF0F1;
+      background-color: #2C3E50;
       //background-color: transparent;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -36,7 +36,7 @@
 
     &,
     &:visited {
-      color: $brand-color;
+      color: #ECF0F1;
     }
 }
 
