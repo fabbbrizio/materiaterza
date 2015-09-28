@@ -74,7 +74,7 @@
         right: 30px;
         background-color: $background-color;
         border: 0px solid $grey-color-light;
-        border-radius: 0px;
+        border-radius: 5px;
         text-align: right;
 
         .menu-icon {
@@ -82,7 +82,7 @@
             display: inline-block;
             float: right;
             width: 36px;
-            height: 60px;
+            //height: 60px;
             line-height: 60px;
             padding-top: 10px;
             text-align: center;
