@@ -79,7 +79,7 @@
 
         .menu-icon {
 
-            display: inline-block;
+            //display: inline-block;
             float: right;
             //width: 36px;
             //height: 60px;
@@ -99,7 +99,7 @@
 
         .trigger {
             clear: both;
-            display: inline;
+            display: inline-block;
         }
 
         &:hover .trigger {
