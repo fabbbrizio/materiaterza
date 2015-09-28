@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    text-color: #FFCC33;
+    text-color: #2C3E50;
     text-decoration: none;
     border-bottom-style: none;
     border-bottom-width: 2px;
@@ -166,12 +166,12 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: #FFCC33;
+color: #2C3E50;
     }
 
     &:hover {
 
-        color: black;
+        color: #566273;
         //background-color: #e3e3e3;
         border-bottom-style: none;
         border-bottom-color: none;
