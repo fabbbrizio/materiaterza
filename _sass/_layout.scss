@@ -24,11 +24,11 @@
     font-size: 16px;
     font-weight: $font-weight-bold;
     line-height: 67px;
-    letter-spacing: .2rem;;
-    text-transform: uppercase;
+    letter-spacing: none;
     margin-top: none;
     margin-bottom: none;
     float: left;
+    text-transform: none;
     display: inline-block;
 
     border-bottom-style: none;
@@ -51,7 +51,7 @@
 
     float: right;
     position: relative;
-    line-height: 67px;
+    line-height: 50px;
 
     .menu-icon {
         display: none;
@@ -79,7 +79,7 @@
 
         .menu-icon {
 
-            display: inline;
+            display: block;
             float: right;
             width: 36px;
             height: 26px;
