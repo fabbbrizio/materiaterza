@@ -64,12 +64,12 @@
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 2px;
         }
     }
 
     @include media-query($on-palm) {
-        position: relative;
+        position: absolute;
         top: 9px;
         right: 30px;
         background-color: $background-color;
