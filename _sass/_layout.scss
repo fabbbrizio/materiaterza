@@ -136,6 +136,15 @@
   padding: 10px 20px 10px 20px;
   border: solid #E74C3C 3px;
   text-decoration: none;
+  -webkit-transition: background .1s linear .1s;
+    -moz-transition: background .1s linear .1s;
+    -ms-transition: background .1s linear .1s;
+    -o-transition: background .1s linear .1s;
+    transition: background .1s linear .1s;
+    transition-property: background;
+    transition-duration: 0.1s;
+    transition-timing-function: linear;
+    transition-delay: 0.1s;
 }
 
 .button:hover {
