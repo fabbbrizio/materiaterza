@@ -3,12 +3,13 @@
  */
 .site-header {
     min-height: 1px;
+      //background-color: #f0f0f0;
       background-color: #ECF0F1;
-      //background-color:;
+      //background-color: transparent;
     // Positioning context for the mobile navigation icon
     position: relative;
-    border-bottom: 0.1em solid rgba(0, 0, 0, 0.13);
-    //border-bottom: 0.1em solid #E74C3C;
+    //border-bottom: 0.1em solid rgba(0, 0, 0, 0.13);
+    //border-bottom: 0.1em solid #2C3E50;
 }
 
 .site-logo {
@@ -20,7 +21,6 @@
 }
 
 .site-title {
-    color: #2C3E50
     font-size: 24px;
     font-weight: $font-weight-bold;
     line-height: 67px;
@@ -36,7 +36,7 @@
 
     &,
     &:visited {
-      color: #2C3E50;
+      color: $brand-color;
     }
 }
 
@@ -150,8 +150,8 @@
 }
 
 .button:hover {
-  color: white;
-  background: #2C3E50;
+  color: #2C3E50;
+  background: white;
   text-decoration: none;
   border: solid #2C3E50 3px;
 }
