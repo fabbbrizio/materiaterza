@@ -7,7 +7,7 @@
 //$base-font-family: 'Titillium Web', sans-serif;
 //$base-font-family: 'Montserrat', sans-serif;
 $base-font-family: 'Lekton', sans-serif;
-$base-font-family2: 'Exo', sans-serif;
+//$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
 $base-font-size:   14px;
 $small-font-size:  $base-font-size * 0.875;
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    text-color: #2C3E50;
+    text-color: black;
     text-decoration: none;
     border-bottom-style: none;
     border-bottom-width: 2px;
@@ -166,12 +166,12 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: #2C3E50;
+color: black;
     }
 
     &:hover {
 
-        color: #566273;
+        color: blue;
         //background-color: #e3e3e3;
         border-bottom-style: none;
         border-bottom-color: none;
