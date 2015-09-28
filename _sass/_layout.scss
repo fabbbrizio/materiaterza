@@ -15,7 +15,7 @@
 .site-logo {
   width: 60px;
   height: 60px;
-  display: inline-block;
+  display: block;
   padding: 18px 0;
   display: none;
 }
@@ -29,7 +29,7 @@
     margin-bottom: none;
     float: left;
     text-transform: none;
-    display: inline-block;
+    display: block;
 
     border-bottom-style: none;
 
@@ -79,13 +79,13 @@
 
         .menu-icon {
 
-            //display: inline-block;
+            display: block;
             float: right;
-            //width: 36px;
-            //height: 60px;
-            //line-height: 60px;
-            //padding-top: 10px;
-            //text-align: center;
+            width: 36px;
+            height: 60px;
+            line-height: 60px;
+            padding-top: 10px;
+            text-align: center;
 
             > svg {
                 width: 18px;
@@ -99,11 +99,11 @@
 
         .trigger {
             clear: both;
-            display: inline-block;
+            display: block;
         }
 
         &:hover .trigger {
-            display: inline;
+            display: block;
             padding-bottom: 5px;
 
 
@@ -111,7 +111,7 @@
 
         .page-link {
 
-            display: inline-block;
+            display: block;
             padding: 5px 10px;
         }
     }
