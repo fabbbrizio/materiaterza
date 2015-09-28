@@ -6,7 +6,7 @@ date:   2014-11-14 19:13:23
 categories: projects
 ---
 
-Venice Forward Future is a series of controlled tests run within the prestigious Muranese furnace Salviati.
+Series of controlled tests run within the prestigious Muranese furnace Salviati.
 
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
 

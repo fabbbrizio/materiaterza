@@ -6,7 +6,7 @@ date:   2014-11-14 19:13:23
 categories: projects
 ---
 
-Real time data visualization with Processing.
+Interactive visualization with Processing to check real-time data about ships in Venice.
 
 <iframe src="https://player.vimeo.com/video/59518870" width="800" height="533" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
