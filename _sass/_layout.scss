@@ -153,7 +153,12 @@
   text-decoration: none;
   border: solid #2C3E50 3px;
 }
-
+.button:active, .button:visited {
+  color: #2C3E50;
+  background: #ECF0F1;
+  text-decoration: none;
+  border: solid #2C3E50 3px;
+}
 
 /**
  * Site footer
