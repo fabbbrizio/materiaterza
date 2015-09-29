@@ -70,11 +70,11 @@
 
     @include media-query($on-palm) {
         position: relative;
-        top: 9px;
+        top: 0px;
         right: 30px;
         //background-color: $background-color;
         //border: 0px solid $grey-color-light;
-        border-radius: 5px;
+        //border-radius: 5px;
         text-align: right;
 
         .menu-icon {
