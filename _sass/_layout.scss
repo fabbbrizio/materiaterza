@@ -132,9 +132,9 @@
   -moz-border-radius: 0;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: #ECF0F1;
-  background: #fff;
-  border: solid #2C3E50 3px;
+  color: #ECECEC;
+  background: #E74C3C;
+  border: solid #E74C3C 3px;
   font-size: 14px;
   padding: 10px 20px 10px 20px;
   text-transform: uppercase;
@@ -152,10 +152,10 @@
 }
 
 .button:hover {
-  color: #2C3E50;
-  background: white;
+  color: #E74C3C;
+  background: #ECECEC;
   text-decoration: none;
-  border: solid #2C3E50 3px;
+  border: solid #E74C3C 3px;
 }
 /*.button:active {
   color: #2C3E50;
