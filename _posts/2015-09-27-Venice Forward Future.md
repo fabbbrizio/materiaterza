@@ -2,7 +2,7 @@
 layout: post
 title:  "Venice Forward Future"
 featured_image: /images/projects/v>>f1.jpg
-date:   2014-11-14 19:13:23
+date:   2015-05-01 19:13:23
 categories: projects
 ---
 
