@@ -64,10 +64,10 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family1;
+    font-family: $base-font-family;
     font-size: $base-font-size;
     /*font-size: 100px; */
-    line-height: 18px;
+    line-height: 1.7;
     font-weight: 400;
     //color: $text-color;
     color: black;
@@ -82,7 +82,6 @@ body {
 body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
   //background-image: url('/images/stellone.gif');
-  font-family: $base-font-family;
   background-image: url('/images/sfondo.colori.gif');
   background-size: cover;
   background-color: gainsboro;
