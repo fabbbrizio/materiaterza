@@ -12,6 +12,7 @@ $base-font-family1: 'Lato', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+$base-line-height: 3.5;
 
 $font-weight-thin: 100;
 $font-weight-light: 300;
@@ -77,6 +78,13 @@ body {
     font-smoothing: antialiased;
 }
 
+p.small {
+    line-height: 1.2;
+}
+
+p.big {
+    line-height: 3.7;
+}
 
 
 body.with-full-bg {
