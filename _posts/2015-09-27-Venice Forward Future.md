@@ -23,5 +23,4 @@ Web Articles: The perfect job, Nykyinen, Domusweb, Artribune.
 
 Credits: BTM, Mareriaterza, Salviati.
 
-<br>
-<a href="http://venice-future.com/" target="_blank" class="button">Launch website</a>
+<a href="http://venice-future.com/" target="_blank" class="button">Go to website</a>
