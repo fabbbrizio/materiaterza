@@ -6,7 +6,7 @@ date:   1970-09-14 19:13:23
 categories: projects
 ---
 
-Information Design Poster about an image sent to space, with the aim to give a message about us for other inhabitants of the universe.
+Information Design Poster about an image sent to space, aims to give a message about us to other inhabitants of the universe.
 
 The image displayed on a plaque fixed to the hull of Pioneer 10, which was sent on an investigative flight into outer space (more precisely to Jupiter) in 1972.
 
