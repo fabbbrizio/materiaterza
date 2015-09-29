@@ -3,7 +3,7 @@ layout: page
 title: bio
 permalink: /bio/
 author: Fabrizio
-menu: yes
+menu: no
 menu_order: 2
 ---
 
