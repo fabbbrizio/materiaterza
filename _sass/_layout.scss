@@ -101,12 +101,12 @@
 
         .trigger {
             clear: both;
-            display: inline;
+            display: block;
         }
 
         &:hover .trigger {
             display: block;
-            padding-bottom: none;
+            padding-bottom: 5px;
 
 
         }
