@@ -3,10 +3,10 @@
 
 // Our variables
 //$base-font-family: 'Open Sans', sans-serif;
-$base-font-family1: 'Lato', sans-serif;
 //$base-font-family: 'Titillium Web', sans-serif;
 //$base-font-family: 'Montserrat', sans-serif;
 $base-font-family: 'Lekton', sans-serif;
+$base-font-family1: 'Lato', sans-serif;
 //$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
 $base-font-size:   14px;
@@ -89,6 +89,7 @@ body.with-full-bg {
 }
 
 
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -99,7 +100,9 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
+p {
+  font-family: $base-font-family1;
+}
 
 /**
  * Images
