@@ -36,7 +36,7 @@
 
     &,
     &:visited {
-      color: $brand-color;
+      color: black;
     }
 }
 
@@ -53,6 +53,7 @@
     position: 0px;
     line-height: 71px;
 
+
     .menu-icon {
         display: none;
     }
@@ -60,7 +61,7 @@
     .page-link {
         color: black;
         line-height: 60px;
-        border-bottom-color: none;
+        border-bottom-color: black;
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
