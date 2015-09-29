@@ -150,13 +150,19 @@
     transition-timing-function: linear;
     transition-delay: 0.1s;
 }
-
+.button:visited {
+  color: #ECECEC;
+  background: #E74C3C;
+  text-decoration: none;
+  border: solid #E74C3C 3px;
+}
 .button:hover {
   color: #E74C3C;
   background: #ECECEC;
   text-decoration: none;
   border: solid #E74C3C 3px;
 }
+
 /*.button:active {
   color: #2C3E50;
   background: #ECF0F1;
