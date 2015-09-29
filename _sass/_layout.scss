@@ -179,9 +179,7 @@
 */
 .site-footer {
     color:black;
-    //padding: $spacing-unit 0;
-    padding: 25px, 0px;
-
+    padding: $spacing-unit 0;
     position: relative;
     background-color: transparent;
     bottom: 0;
@@ -267,8 +265,8 @@
  * Page content
  */
 .page-content {
-    //padding: $spacing-unit 0 $spacing-unit * 5 0;
-    padding: 10px 0 100px 0px;
+    padding: $spacing-unit 0 $spacing-unit * 5 0;
+    
 
 
 }
