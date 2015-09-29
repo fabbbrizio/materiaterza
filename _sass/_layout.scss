@@ -50,7 +50,7 @@
 .site-nav {
 
     float: right;
-    position: relative;
+    position: 0px;
     line-height: 71px;
 
     .menu-icon {
@@ -72,8 +72,8 @@
         position: relative;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 0px solid $grey-color-light;
+        //background-color: $background-color;
+        //border: 0px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
 
