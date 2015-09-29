@@ -3,7 +3,7 @@
 
 // Our variables
 //$base-font-family: 'Open Sans', sans-serif;
-//$base-font-family: 'Lato', sans-serif;
+$base-font-family1: 'Lato', sans-serif;
 //$base-font-family: 'Titillium Web', sans-serif;
 //$base-font-family: 'Montserrat', sans-serif;
 $base-font-family: 'Lekton', sans-serif;
@@ -64,10 +64,10 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
+    font-family: $base-font-family1;
     font-size: $base-font-size;
     /*font-size: 100px; */
-    line-height: 1.7;
+    line-height: 18px;
     font-weight: 400;
     //color: $text-color;
     color: black;
@@ -82,6 +82,7 @@ body {
 body.with-full-bg {
   /*background-image: url('http://www.isoncampaign.org/files/images/blogpics/enckeRipoff_movie_short.gif');*/
   //background-image: url('/images/stellone.gif');
+  font-family: $base-font-family;
   background-image: url('/images/sfondo.colori.gif');
   background-size: cover;
   background-color: gainsboro;
@@ -159,7 +160,7 @@ h2 {
 a {
 
     color: black;
-    
+
     text-decoration: none;
     border-bottom-style: none;
     border-bottom-width: 2px;
