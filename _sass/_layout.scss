@@ -101,7 +101,7 @@
 
         .trigger {
             clear: both;
-            display: block;
+            display: grid;
         }
 
         &:hover .trigger {
