@@ -185,11 +185,14 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    //border-bottom: 0.5em solid #E74C3C;
+    border-bottom: 0.5em solid #E74C3C;
 }
+
+/*
  .border-bottom {
    border-bottom: 0.5em solid #E74C3C;
  }
+*/
 
 .with-full-bg .site-footer {
   background-color: transparent;
@@ -361,7 +364,7 @@
 }
 
 
-
+/*
 .bottom-color-bands {
 
    align-self: flex-end;
