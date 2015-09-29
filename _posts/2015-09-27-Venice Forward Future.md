@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Venice Forward Future"
+title:  "Venice >> Future"
 featured_image: /images/projects/v>>f1.jpg
 date:   2015-05-01 19:13:23
 categories: projects
