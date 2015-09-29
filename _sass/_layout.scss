@@ -101,12 +101,12 @@
 
         .trigger {
             clear: both;
-            display: grid;
+            display: inline;
         }
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 5px;
+            padding-bottom: none;
 
 
         }
@@ -383,4 +383,4 @@ background-color: #FFCC33;
 .color-row {
     height: 23px;
     width: 100%;
-  } */
+  } *
