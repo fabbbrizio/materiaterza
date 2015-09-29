@@ -36,14 +36,14 @@
 
     &,
     &:visited {
-      color: none;
+      color: black;
     }
 }
 
 .with-full-bg .site-title {
   &,
   &:visited {
-      color: $background-color;
+      color: black;
   }
 }
 
