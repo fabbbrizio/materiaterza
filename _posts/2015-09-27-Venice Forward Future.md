@@ -7,7 +7,7 @@ categories: projects
 ---
 
 Series of controlled tests run within the prestigious Muranese furnace Salviati.
-<br>
+
 Traditional glass blowing techniques, historically linked to the island of Murano and dependent on the skills of its glass masters, is merge with ceramic 3D-printing, a much younger and more movable process to create identical objects.
 <br>
 <br>
