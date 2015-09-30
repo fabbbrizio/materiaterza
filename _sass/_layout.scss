@@ -135,7 +135,7 @@
   color: #ECECEC;
   background: #E74C3C;
   border: solid #E74C3C 3px;
-  font-size: 14px;
+  font-size: 16px;
   padding: 10px 20px 10px 20px;
   text-transform: none;
   letter-spacing: none;
@@ -305,6 +305,12 @@
     font-size: 74px;
     line-height: 88px;
 
+    &:hover {
+
+        color: #E74C3C;
+        background-color: none;
+
+    }
 }
 
 
