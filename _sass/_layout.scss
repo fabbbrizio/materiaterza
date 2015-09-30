@@ -49,13 +49,14 @@
 }
 
 .with-full-bg .site-title {
-  &,
-  &:visited {
-      color: black;
-  }
+
   &:hover{
     background-color: transparent;
     }
+  &:visited {
+      color: black;
+  }
+
 }
 
 .site-nav {
