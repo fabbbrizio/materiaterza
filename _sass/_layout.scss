@@ -157,8 +157,8 @@ display: inline-block;
   -moz-border-radius: 10;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: #ECECEC;
-  background: #E74C3C;
+  color: #E74C3C;
+  background: transparent;
   border: solid #E74C3C 3px;
   font-size: 16px;
   padding: 10px 20px 10px 20px;
@@ -176,14 +176,14 @@ display: inline-block;
     transition-delay: 0.1s;
 }
 .button:visited {
-  color: #ECECEC;
-  background: #E74C3C;
+  color: #E74C3C;
+  background: transparent;
   text-decoration: none;
   border: solid #E74C3C 3px;
 }
 .button:hover {
-  color: #E74C3C;
-  background: #ECECEC;
+  color: #ECECEC;
+  background: #E74C3C;
   text-decoration: none;
   border: solid #E74C3C 3px;
 }
