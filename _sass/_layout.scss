@@ -35,6 +35,12 @@
 
     border-bottom-style: none;
 
+    &:hover {
+
+        color: #E74C3C;
+        background-color: transparent;
+
+    }
 
     &,
     &:visited {
