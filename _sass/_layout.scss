@@ -193,8 +193,8 @@ display: inline-block;
   -moz-border-radius: 10;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: black;
-  background: #E74C3C;
+  color: blue;
+  background: transparent;
   border: solid blue 3px;
   font-size: 21px;
   padding: 10px 20px 10px 20px;
@@ -212,16 +212,16 @@ display: inline-block;
     transition-delay: 0.1s;
 }
 .button:visited {
-  color: black;
-  background: #E74C3C;
+  color: blue;
+  background: transparent;
   text-decoration: none;
   border: solid blue 3px;
 }
 .button:hover {
-  color: blue;
-  background: black;
+  color: white;
+  background: blue;
   text-decoration: none;
-  border: solid black 3px;
+  border: solid blue 3px;
 }
 
 /*.button:active {
