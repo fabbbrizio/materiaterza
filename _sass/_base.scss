@@ -200,13 +200,13 @@ color: #E74C3C, darken (25%);
 
 
 .with-full-bg a {
-    color: #E74C3C;
+    color: blue;
     text-decoration: none;
     background-color: transparent;
     border-bottom-width: 2px;
 
     &:hover {
-        color: darken(#E74C3C, 25%);
+        color: darken(blue, 25%);
       text-decoration: none;
 
 
