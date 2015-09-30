@@ -73,12 +73,19 @@
 
     }
 
+    &:active {
+
+        color: #E74C3C;
+        background-color: transparent;
+
+    }
+
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: lime;
+        color: black;
         background-color: transparent;
 
         // Gaps between nav items, but not on the first one
@@ -87,12 +94,6 @@
 
         }
 
-        &:active {
-
-            color: #E74C3C;
-            background-color: transparent;
-
-        }
     }
 
     @include media-query($on-palm) {
