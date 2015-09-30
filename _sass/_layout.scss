@@ -61,18 +61,18 @@
     position: 0px;
     line-height: 71px;
 
-    &,
+    
     &:visited {
       color: black;
     }
 
-    &,
+
     &:hover {
 
         color: #E74C3C;
         background-color: transparent;
     }
-    &,
+
     &:active {
 
         color: #E74C3C;
@@ -91,7 +91,7 @@
       &:not(:first-child) {
             margin-left: none;
         }
-        &,
+
         &:hover {
 
             color: #E74C3C;
