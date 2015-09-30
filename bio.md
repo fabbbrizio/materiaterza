@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: bio
 permalink: /bio/
 author: Fabrizio
