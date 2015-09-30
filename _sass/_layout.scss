@@ -90,7 +90,6 @@
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
             margin-left: none;
-
         }
         &,
         &:hover {
@@ -98,7 +97,7 @@
             color: #E74C3C;
             background-color: transparent;
         }
-    
+
     }
 
     @include media-query($on-palm) {
