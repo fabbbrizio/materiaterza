@@ -193,8 +193,8 @@ display: inline-block;
   -moz-border-radius: 10;
   border-radius: 0px;
   font-family: Lekton, sans-serif;
-  color: blue;
-  background: transparent;
+  color: #ECECEC;
+  background: blue;
   border: solid blue 3px;
   font-size: 21px;
   padding: 10px 20px 10px 20px;
@@ -210,13 +210,6 @@ display: inline-block;
     transition-duration: 0.1s;
     transition-timing-function: linear;
     transition-delay: 0.1s;
-
-    .with-full-bg .button:hover {
-      color: white;
-      background: blue;
-      text-decoration: none;
-      border: solid blue 3px;
-    }
 
 }
 
