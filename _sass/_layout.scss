@@ -124,12 +124,12 @@
 
         .trigger {
             clear: both;
-            display: block;
+            display: inline-block;
         }
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 5px;
+//            padding-bottom: 5px;
 
 
         }
