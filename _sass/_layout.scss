@@ -72,13 +72,7 @@
         background-color: transparent;
 
     }
-    &:active {
 
-        color: #E74C3C;
-        background-color: transparent;
-           border-bottom: 1px solid #E74C3C;
-
-    }
     .menu-icon {
         display: none;
     }
@@ -86,11 +80,18 @@
     .page-link {
         color: black;
         line-height: 60px;
-        border-bottom-color: none;
+        border-bottom: 1px solid #E74C3C;
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
             margin-left: none;
+        }
+
+        &:active {
+
+            color: #E74C3C;
+            background-color: transparent;
+
         }
     }
 
