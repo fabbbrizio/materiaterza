@@ -71,14 +71,12 @@
 
         color: #E74C3C;
         background-color: transparent;
-
     }
     &,
     &:active {
 
         color: #E74C3C;
         background-color: transparent;
-
     }
 
     .menu-icon {
@@ -93,6 +91,18 @@
       &:not(:first-child) {
             margin-left: none;
 
+        }
+        &,
+        &:hover {
+
+            color: #E74C3C;
+            background-color: transparent;
+        }
+        &,
+        &:active {
+
+            color: #E74C3C;
+            background-color: transparent;
         }
 
     }
