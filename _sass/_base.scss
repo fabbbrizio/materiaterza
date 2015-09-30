@@ -166,13 +166,14 @@ h2 {
  */
 a {
 
-    color: black;
+    color: #E74C3C;
 
     text-decoration: none;
     border-bottom-style: none;
     border-bottom-width: 2px;
     border-bottom-color: black;
   background-color: none;
+
     //text-transform: uppercase;
     //text-decoration: underline;
 
@@ -180,17 +181,18 @@ a {
 
     &:visited {
         //color: darken($brand-color, 25%);
-color: black;
+color: #E74C3C, darken (25%);
     }
 
     &:hover {
 
-        color: #E74C3C;
-        //background-color: #e3e3e3;
+        color: #ECF0F1;
+        background-color: #E74C3C;
         border-bottom-style: none;
         border-bottom-color: none;
         //background: black;
         //text-decoration: line-through;
+
     }
 }
 
