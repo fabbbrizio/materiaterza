@@ -419,8 +419,6 @@ display: inline-block;
         @include media-query($on-laptop) {
             font-size: 18px;
         }
-
-        
 //video
         .vimeo-youtube {
             position: relative;
@@ -439,8 +437,6 @@ display: inline-block;
             height: 100%;
         }
         //fine video
-
-
     }
 }
 
