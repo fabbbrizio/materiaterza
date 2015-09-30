@@ -57,7 +57,7 @@
 
 .site-nav {
 
-display: inline-block;
+//display: inline-block;
     float: right;
     position: 0px;
     line-height: 71px;
@@ -74,7 +74,7 @@ display: inline-block;
     }
 
     .menu-icon {
-        display: none;
+        //display: none;
     }
 
     .page-link {
@@ -105,7 +105,7 @@ display: inline-block;
 
         .menu-icon {
 
-            display: none;
+            //display: none;
             float: right;
             width: 36px;
             height: 60px;
@@ -125,11 +125,11 @@ display: inline-block;
 
         .trigger {
             clear: both;
-            display: inline-block;
+            //display: inline-block;
         }
 
         &:hover .trigger {
-            display: inline-block;
+            //display: inline-block;
 //            padding-bottom: 5px;
 
 
@@ -137,7 +137,7 @@ display: inline-block;
 
         .page-link {
 
-            display: inline-block;
+            //display: inline-block;
             padding: 5px 10px;
         }
     }
