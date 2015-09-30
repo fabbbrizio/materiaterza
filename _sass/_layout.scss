@@ -15,7 +15,7 @@
 .site-logo {
   width: 60px;
   height: 60px;
-  display: block;
+  //display: block;
   padding: 18px 0;
   display: none;
 }
@@ -57,7 +57,7 @@
 
 .site-nav {
 
-//display: inline-block;
+display: inline-block;
     float: right;
     position: 0px;
     line-height: 71px;
@@ -74,7 +74,7 @@
     }
 
     .menu-icon {
-        //display: none;
+        display: none;
     }
 
     .page-link {
@@ -105,7 +105,7 @@
 
         .menu-icon {
 
-            //display: none;
+            display: none;
             float: right;
             width: 36px;
             height: 60px;
@@ -125,11 +125,11 @@
 
         .trigger {
             clear: both;
-            //display: inline-block;
+            display: inline-block;
         }
 
         &:hover .trigger {
-            //display: inline-block;
+            display: block;
 //            padding-bottom: 5px;
 
 
@@ -137,7 +137,7 @@
 
         .page-link {
 
-            //display: inline-block;
+            display: block;
             padding: 5px 10px;
         }
     }
@@ -324,7 +324,7 @@
 }
 
 .post-link {
-  //  display: block;
+  display: block;
     color: black;
     font-size: 74px;
     line-height: 88px;
