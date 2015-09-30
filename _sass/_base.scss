@@ -201,6 +201,7 @@ color: #E74C3C, darken (25%);
     color: black;
     text-decoration: underline;
     background-color: transparent;
+    border-bottom-width: 2px;
 
 
     &:visited {
@@ -210,7 +211,7 @@ color: #E74C3C, darken (25%);
 
     &:hover {
         color: blue;
-      text-decoration: underline;
+      text-decoration: none;
 
 
     }
