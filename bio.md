@@ -8,7 +8,8 @@ menu_order: 2
 ---
 
 #About
-
+<br>
+<br>
 I am an Interaction designer, creating content and solutions for the web. I design wireframe, mockup, prototype of interfaces for desktop, tablet and mobile.
 <br>
 <br>
