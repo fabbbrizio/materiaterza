@@ -61,19 +61,12 @@
     position: 0px;
     line-height: 71px;
 
-    
+
     &:visited {
       color: black;
     }
 
-
     &:hover {
-
-        color: #E74C3C;
-        background-color: transparent;
-    }
-
-    &:active {
 
         color: #E74C3C;
         background-color: transparent;
@@ -83,6 +76,13 @@
         display: none;
     }
 
+.projects-list {
+
+      color: #E74C3C;
+      background-color: transparent;
+  }
+
+}
     .page-link {
         color: black;
         background-color: transparent;
