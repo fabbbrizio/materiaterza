@@ -210,7 +210,7 @@ display: inline-block;
     transition-duration: 0.1s;
     transition-timing-function: linear;
     transition-delay: 0.1s;
-}
+
 .button:visited {
   color: blue;
   background: transparent;
@@ -222,6 +222,7 @@ display: inline-block;
   background: blue;
   text-decoration: none;
   border: solid blue 3px;
+}
 }
 
 /*.button:active {
