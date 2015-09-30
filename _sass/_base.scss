@@ -200,6 +200,8 @@ color: #E74C3C, darken (25%);
 .with-full-bg a {
     color: black;
     text-decoration: underline;
+    background-color: transparent;
+
 
     &:visited {
         //color: darken($brand-color, 15%);
