@@ -7,6 +7,7 @@
 //$base-font-family: 'Montserrat', sans-serif;
 $base-font-family: 'Lekton', sans-serif;
 $base-font-family1: 'Lato', sans-serif;
+$font-family: 'EratoLig', sans-serif;
 //$base-font-family: 'Exo', sans-serif;
 //$base-font-family: 'Merriweather', sans-serif;
 $base-font-size:   16px;
@@ -204,7 +205,7 @@ color: #E74C3C, darken (25%);
     border-bottom-width: 2px;
 
     &:hover {
-        color: darken(blue, 35%);
+        color: darken(blue, 25%);
       text-decoration: none;
 
 
