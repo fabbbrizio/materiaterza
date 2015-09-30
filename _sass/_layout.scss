@@ -211,18 +211,20 @@ display: inline-block;
     transition-timing-function: linear;
     transition-delay: 0.1s;
 
+    .button:hover {
+      color: white;
+      background: blue;
+      text-decoration: none;
+      border: solid blue 3px;
+    }
+    
 .button:visited {
   color: blue;
   background: transparent;
   text-decoration: none;
   border: solid blue 3px;
 }
-.button:hover {
-  color: white;
-  background: blue;
-  text-decoration: none;
-  border: solid blue 3px;
-}
+
 }
 
 /*.button:active {
