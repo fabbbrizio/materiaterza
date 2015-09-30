@@ -80,10 +80,12 @@
     .page-link {
         color: #E74C3C;
         line-height: 60px;
+        background-color: transparent;
 
         // Gaps between nav items, but not on the first one
       &:not(:first-child) {
             margin-left: none;
+            color: #E74C3C;
         }
 
         &:active {
