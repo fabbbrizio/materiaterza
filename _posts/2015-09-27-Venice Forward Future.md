@@ -18,6 +18,8 @@ We define the structures of the visual identity of the project, sabotaging analo
 <br>
 <br>
 <img src="http://payload399.cargocollective.com/1/10/325579/10282917/2_1600_c.jpg" alt="venice>>future tools">
+<br>
+<br>
 The production site became a lab where analogic and digital techniques are mixed. The resulting outcomes are been presented at VL2015.
 <br>
 <br>
