@@ -35,16 +35,16 @@
 
     border-bottom-style: none;
 
+    &,
+    &:visited {
+      color: black;
+    }
+
     &:hover {
 
         color: #E74C3C;
         background-color: transparent;
 
-    }
-
-    &,
-    &:visited {
-      color: black;
     }
 }
 
