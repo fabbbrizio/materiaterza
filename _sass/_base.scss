@@ -198,19 +198,19 @@ color: #E74C3C, darken (25%);
 
 
 .with-full-bg a {
-    color: black;
-    text-decoration: underline;
+    color: #E74C3C;
+    text-decoration: none;
     background-color: transparent;
     border-bottom-width: 2px;
 
 
     &:visited {
         //color: darken($brand-color, 15%);
-        color: black;
+        color: darken(#E74C3C, 15%);
     }
 
     &:hover {
-        color: blue;
+        color: black;
       text-decoration: none;
 
 
