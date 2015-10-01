@@ -100,6 +100,24 @@ display: inline-block;
             border-bottom: 0.1em solid #E74C3C;
         }
 
+        .current {
+
+          color: black;
+          background-color: transparent;
+
+          &:active {
+              color: darken(#E74C3C, 25%);
+              background-color: transparent;
+          }
+
+          &:hover {
+              color: #E74C3C;
+              background-color: transparent;
+              border-bottom: 0.1em solid #E74C3C;
+          }
+
+        }
+
     }
 
     @include media-query($on-palm) {
