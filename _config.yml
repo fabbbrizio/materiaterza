@@ -2,8 +2,8 @@
 title: Matieriaterza
 #email: fabrizio.goglia@gmail.com
 description: Process design collective based in Venice
-baseurl: "http://materiaterza.com" # the subpath of your site, e.g. /blog/
-url: "http://materiaterza.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 twitter_username: fabriziogoglia
 
 

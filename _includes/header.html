@@ -28,11 +28,9 @@
 
               {% if page.url == item.url %}
                 <!-- Mark the current page -->
-              <div class="current">{{ item.title }}</div> 
+              <a class="current page-link">{{ item.title }}</a> 
 
               {% else %}
-
-
                 <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
               {% endif %}
 
