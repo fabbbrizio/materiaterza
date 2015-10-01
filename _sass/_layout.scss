@@ -87,12 +87,6 @@ display: inline-block;
             margin-left: none;
         }
 
-        .current {
-
-            color: darken(#E74C3C, 25%);
-            background-color: transparent;
-            border-bottom: 0.1em solid #E74C3C;
-        }
 
         &:hover {
 
@@ -133,7 +127,7 @@ display: inline-block;
         }
 
         .trigger {
-            //clear: both;
+            clear: both;
             display: inline-block;
 
         }
