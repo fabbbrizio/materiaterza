@@ -132,26 +132,9 @@ display: inline-block;
         }
 
         .trigger {
-            clear: both;
+            //clear: both;
             display: inline-block;
 
-            .current {
-
-              color: black;
-              background-color: transparent;
-
-              &:active {
-                  color: darken(#E74C3C, 25%);
-                  background-color: transparent;
-              }
-
-              &:hover {
-                  color: #E74C3C;
-                  background-color: transparent;
-                  border-bottom: 0.1em solid #E74C3C;
-              }
-
-            }
         }
 
         &:hover .trigger {
