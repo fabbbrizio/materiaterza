@@ -87,6 +87,13 @@ display: inline-block;
             margin-left: none;
         }
 
+        &:active {
+
+            color: #E74C3C;
+            background-color: transparent;
+            border-bottom: 0.1em solid #E74C3C;
+        }
+
         &:hover {
 
             color: #E74C3C;
