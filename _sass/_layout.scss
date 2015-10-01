@@ -87,10 +87,11 @@ display: inline-block;
             margin-left: none;
         }
 
-        &:active {
+        .current {
 
             color: darken(#E74C3C, 25%);
             background-color: transparent;
+            border-bottom: 0.1em solid #E74C3C;
         }
 
         &:hover {
