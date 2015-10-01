@@ -106,10 +106,6 @@ display: inline-block;
         //border-radius: 5px;
         text-align: right;
 
-.with-full-bg {
-
-font-size: 21px;
-}
         .menu-icon {
 
             display: none;
@@ -131,7 +127,7 @@ font-size: 21px;
         }
 
         .trigger {
-            clear: both;
+            //clear: both;
             display: inline-block;
 
         }
@@ -256,12 +252,7 @@ font-size: 21px;
    border-bottom: 0.5em solid #E74C3C;
  }
 */
-.with-full-bg {
 
-  font-size: 65px;
-  }
-
-}
 .with-full-bg .site-footer {
   background-color: transparent;
 
