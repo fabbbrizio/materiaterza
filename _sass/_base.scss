@@ -56,7 +56,7 @@ $on-laptop:        900px;
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 85px;
+    margin: 15px;
     padding: 0;
 }
 
@@ -291,8 +291,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(600px - (#{$spacing-unit} * 2));
-        max-width:         calc(600px - (#{$spacing-unit} * 2));
+        max-width: -webkit-calc(600px - (#{$spacing-unit}));
+        max-width:         calc(600px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
