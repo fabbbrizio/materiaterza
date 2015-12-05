@@ -125,8 +125,8 @@ video{
  height:auto;
  z-index:-100;
  visibility: visible;
- background: url('/images/MTRTRZ-HD.mp4') no-repeat;
-
+ background: url('/images/MTRTRZ-HD.mp4');
+background-repeat: no-repeat;
 }
 
   //background-image: url('/images/sfondo.colori.gif');
