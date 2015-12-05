@@ -104,7 +104,7 @@ p.big {
 
 
 body.with-full-bg {
-
+/*
   video.bgvid {
 position: fixed; right: 0; bottom: 0;
 min-width: 100%; min-height: 100%;
@@ -112,6 +112,19 @@ width: auto; height: auto; z-index: -100;
 background: url(MTRTRZ-HD.mp4) no-repeat;
 background-size: cover;
 z-index: 0;
+}
+*/
+
+video{
+ position:fixed;
+ left:0;
+        top:0;
+ min-width:100%;
+ min-height:100%;
+ width:auto;
+ height:auto;
+ z-index:-100;
+ visibility: visible;
 }
 
   //background-image: url('/images/sfondo.colori.gif');
