@@ -260,9 +260,9 @@ color: #FFFA00, darken (25%);
 
 .with-full-bg a {
     color: #FFFA00;
-    text-decoration: underline;
+    text-decoration: underline 1px, dashed;
     background-color: transparent;
-    border-bottom-width: 1px;
+    //border-bottom-width: 1px;
 
     &:hover {
 
