@@ -7,16 +7,11 @@ layout: home2
 
 <body>
 
-  <video autoplay loop>
-      <source src="MTRTRZ-HD.mp4" type="video/mp4">
-      <source src="MTRTRZ-HD.webm" type="video/webm">
-      <source src="MTRTRZ-HD.ogv" type="video/ogg">
-  </video>
-  <!--
-  <video autoplay loop muted poster="MTRTRZ-HD.mp4" id="bgvid">
 
+  <source src="MTRTRZ-HD.mp4" type="video/mp4" /><!-- Safari / iOS video    -->
+        <source src="MTRTRZ-HD.webm" type="video/webm" /><!-- Firefox / Opera / Chrome10 -->
   </video>
--->
+
   <div class="page-content">
     <div class="wrapper">
       {{ content }}
