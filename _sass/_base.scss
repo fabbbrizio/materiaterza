@@ -67,7 +67,7 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
-    font-size: 21px;
+    font-size: 14px;
     /*font-size: 100px; */
     line-height: 1.8;
     font-weight: 400;
@@ -93,9 +93,9 @@ body {
 @include media-query($on-palm) {
 body {
     font-family: $base-font-family;
-    font-size: 14px;
+    font-size: 21px;
     /*font-size: 100px; */
-    line-height: 1;
+    line-height: 1.7;
     font-weight: 400;
     //color: $text-color;
     color: black;
