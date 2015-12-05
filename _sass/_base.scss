@@ -80,10 +80,27 @@ body {
     font-smoothing: antialiased;
 }
 
-p {
-    background-color: rgb(255,255,255);
 
+.padded-multiline {
+  line-height: 1.3;
+  padding: 2px 0;
+  border-left: 20px solid #c0c;
+  width: 400px;
+  margin: 20px auto;
 }
+.padded-multiline h1 {
+  background-color: #c0c;
+  padding: 4px 0;
+  color: #fff;
+  display: inline;
+  margin: 0;
+}
+.padded-multiline h1 strong {
+  position: relative;
+  left: -10px;
+}
+
+
 
 @include media-query($on-palm) {
 body {
