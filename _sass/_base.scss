@@ -224,7 +224,7 @@ h2 {
 a {
 
     //color: #E74C3C;
-    color:#FFFA00
+    color:#FFFA00;
 
     text-decoration: underline;
     border-bottom-style: none;
@@ -245,12 +245,11 @@ color: #FFFA00, darken (25%);
 
     &:hover {
 
-        color: #ECF0F1;
-        background-color: #E74C3C;
+        color: #FFFA00;
+        text-decoration: underline;
         border-bottom-style: none;
         border-bottom-color: none;
         //background: black;
-        //text-decoration: line-through;
 
     }
 }
