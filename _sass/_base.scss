@@ -80,6 +80,11 @@ body {
     font-smoothing: antialiased;
 }
 
+p {
+    background-color: rgb(255,0,255);
+
+}
+
 @include media-query($on-palm) {
 body {
     font-family: $base-font-family;
