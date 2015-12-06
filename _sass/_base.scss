@@ -67,12 +67,12 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
-    font-size: 22px;
+    font-size: 167px;
     /*font-size: 100px; */
-    line-height: 1.8;
+    line-height: 1.3;
     font-weight: 400;
     //color: $text-color;
-    padding-top: 150px;
+    padding-top: 30px;
     color: #FFFA00;
     text-shadow: 2px 2px #FFFA00;
     //background-color: #ECECEC;
@@ -328,7 +328,7 @@ pre {
  */
 .wrapper {
     max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width:         calc(900px - (-59px * 5));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
