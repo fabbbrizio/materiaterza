@@ -100,7 +100,7 @@ display: inline-block;
     @include media-query($on-palm) {
         position: relative;
         top: 0px;
-        right: 30px;
+        right: 10px;
         //background-color: $background-color;
         //border: 0px solid $grey-color-light;
         //border-radius: 5px;
