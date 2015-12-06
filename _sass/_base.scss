@@ -74,7 +74,7 @@ body {
     //color: $text-color;
     padding-top: 30px;
     color: #FFFA00;
-    text-shadow: 2px 2px #FFFA00;
+    text-shadow: 14px 0px #FFFA00;
     //background-color: #ECECEC;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
@@ -273,8 +273,8 @@ color: #FFFA00, darken (25%);
 }
 
 ::selection {
-    background-color: #E74C3C;
-    color: #ECF0F1;
+    background-color: black;
+    color: white;
 }
 
 /**
