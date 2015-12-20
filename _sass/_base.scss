@@ -135,12 +135,13 @@ body.with-full-bg {
 
           text-decoration: none;
         }
+}
 
-        ::selection {
+    .with-full-bg ::selection {
             background-color: black;
             color: white;
         }
-        }
+
       }
 
 
