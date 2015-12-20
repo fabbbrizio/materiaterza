@@ -152,12 +152,7 @@ body.with-full-bg {
    z-index:-100;
    visibility: visible;
   }
-  @include media-query($on-palm) {
-    body.with-full-bg {
-
-      background: black;
-  }
-}
+  
 /*
   video.bgvid {
 
