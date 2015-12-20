@@ -121,11 +121,10 @@ body.with-full-bg {
     100% { background-color: #333745; }
     }
 
-
     }
-  
+
   @include media-query($on-palm) {
-     a.with-full-bg {
+     .with-full-bg a {
         color: white;
         text-decoration: underline 1px;
         text-shadow: 5px 0px white;
