@@ -103,6 +103,16 @@ body {
     color: #FFFA00;
     text-shadow: 5px 0px #FFFA00;
     background-color: black;
+    //background-color: #ECECEC;
+
+    }
+    }
+
+    @include media-query($on-palm) {
+    body {
+    -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
+    animation: background 30s cubic-bezier(0,0,1,1) infinite;
+    }
 
     -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
     animation: background 30s cubic-bezier(0,0,1,1) infinite;
@@ -122,11 +132,6 @@ body {
     100% { background-color: #333745; }
     }
 
-
- //background-color: #ECECEC;
-
-}
-}
 
 p.small {
     line-height: 1.2;
