@@ -104,7 +104,6 @@ body.with-full-bg {
     text-shadow: 5px 0px white;
 }
 
-@include media-query($on-palm) {
   body.with-full-bg {
   -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
   animation: background 30s cubic-bezier(0,0,1,1) infinite;
@@ -123,9 +122,8 @@ body.with-full-bg {
   67% { background-color: #EA2E49; }
   100% { background-color: #333745; }
   }
-  }
 
-@include media-query($on-palm) {
+
      .with-full-bg a {
         color: white;
         text-decoration: underline 1px;
@@ -136,8 +134,9 @@ body.with-full-bg {
           text-decoration: none;
         }
 }
+}
 
-  
+
 p.small {
     line-height: 1.2;
 }
