@@ -125,8 +125,7 @@ body {
 
     -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
     animation: background 30s cubic-bezier(0,0,1,1) infinite;
-    }
-  }
+
 
     @-webkit-keyframes background {
     0% { background-color: #2E0927; }
@@ -141,7 +140,8 @@ body {
     67% { background-color: #EA2E49; }
     100% { background-color: #333745; }
     }
-
+  }
+  }
 
 p.small {
     line-height: 1.2;
