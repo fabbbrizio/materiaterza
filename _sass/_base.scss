@@ -102,12 +102,12 @@ body {
     //color: $text-color;
     color: #FFFA00;
     text-shadow: 5px 0px #FFFA00;
-    
+
     }
     }
 
     @include media-query($on-palm) {
-    body {
+    body.with-full-bg {
 
     -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
     animation: background 30s cubic-bezier(0,0,1,1) infinite;
