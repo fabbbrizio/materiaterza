@@ -68,14 +68,14 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
-    font-size: 167px;
+    font-size: 120px;
     /*font-size: 100px; */
     line-height: 1.3;
     font-weight: 400;
     //color: $text-color;
     padding-top: 30px;
     color: #FFFA00;
-    text-shadow: 14px 0px #FFFA00;
+    text-shadow: 10px 0px #FFFA00;
     //background-color: #ECECEC;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
@@ -132,6 +132,12 @@ body.with-full-bg {
    visibility: visible;
   }
 
+@include media-query($on-palm) {
+  body.with-full-bg {
+
+
+    background-color: black;
+}
 /*
   video.bgvid {
 
