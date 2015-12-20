@@ -105,24 +105,24 @@ body.with-full-bg {
 }
 
 @include media-query($on-palm) {
-body.with-full-bg {
-    -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
-    animation: background 30s cubic-bezier(0,0,1,1) infinite;
-    }
+  body.with-full-bg {
+  -webkit-animation: background 30s cubic-bezier(0,0,1,1) infinite;
+  animation: background 30s cubic-bezier(0,0,1,1) infinite;
+  }
 
-    @-webkit-keyframes background {
-    0% { background-color: #2E0927; }
-    33% { background-color: #DB9E36; }
-    67% { background-color: #EA2E49; }
-    100% { background-color: #333745; }
-    }
+  @-webkit-keyframes background {
+  0% { background-color: #2E0927; }
+  33% { background-color: #DB9E36; }
+  67% { background-color: #EA2E49; }
+  100% { background-color: #333745; }
+  }
 
-    @keyframes background {
-    0% { background-color: #2E0927; }
-    33% { background-color: #DB9E36; }
-    67% { background-color: #EA2E49; }
-    100% { background-color: #333745; }
-    }
+  @keyframes background {
+  0% { background-color: #2E0927; }
+  33% { background-color: #DB9E36; }
+  67% { background-color: #EA2E49; }
+  100% { background-color: #333745; }
+  }
   }
 
 @include media-query($on-palm) {
@@ -137,16 +137,7 @@ body.with-full-bg {
         }
 }
 
-    .with-full-bg ::selection {
-            background-color: black;
-            color: white;
-        }
-
-      }
-
-
-
-
+  
 p.small {
     line-height: 1.2;
 }
