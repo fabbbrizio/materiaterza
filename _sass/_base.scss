@@ -121,9 +121,6 @@ body.with-full-bg {
     100% { background-color: #333745; }
     }
 
-    }
-
-  @include media-query($on-palm) {
      .with-full-bg a {
         color: white;
         text-decoration: underline 1px;
@@ -134,8 +131,8 @@ body.with-full-bg {
           text-decoration: none;
         }
         }
-
-  }
+}
+  
 
 
 p.small {
@@ -291,8 +288,7 @@ color: #FFFA00, darken (25%);
 
 .with-full-bg a {
     color: #FFFA00;
-    text-decoration: underline 1px, dashed;
-    background-color: transparent;
+    text-decoration: underline 1px;
     //border-bottom-width: 1px;
 
     &:hover {
