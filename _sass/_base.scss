@@ -80,6 +80,7 @@ body.with-full-bg {
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
+    border-color: lime;
 }
 
 /*
@@ -148,7 +149,6 @@ p.big {
 
 body.with-full-bg {
 
-border-color: lime;
   video{
    position:fixed;
    left:0;
