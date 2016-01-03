@@ -85,19 +85,6 @@ body.with-full-bg {
     //border-width: 15px;
 }
 
-body.border {
-    position: fixed !important;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-style: solid;
-    border-width: 15px;
-    border-color: lime;
-    padding: 40px;
-    margin: 0px;
-    }
 
 /*
 .padded-multiline p {
@@ -176,6 +163,22 @@ body.with-full-bg {
    z-index:-100;
    visibility: visible;
   }
+
+body.with-full-bg {
+  body.border {
+      position: fixed !important;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      border-style: solid;
+      border-width: 15px;
+      border-color: lime;
+      padding: 40px;
+      margin: 0px;
+      }
+    }
 
 /*
   video.bgvid {
