@@ -75,14 +75,14 @@ body.with-full-bg {
     //color: $text-color;
     padding-top: 30px;
     color: #FFFA00;
-    text-shadow: 10px 0px #FFFA00;
+    //text-shadow: 10px 0px #FFFA00;
     //background-color: #ECECEC;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
-  //  border-color: lime;
-    //border-style: solid;
-    //border-width: 15px;
+  border-color: #FFFA00;
+    border-style: solid;
+    border-width: 5px;
 }
 
 
@@ -162,11 +162,6 @@ body.with-full-bg {
    height:auto;
    z-index:-100;
    visibility: visible;
-
-         border-style: solid;
-         border-width: 15px;
-         border-color: yellow;
-         margin: 0px;
   }
 
 
